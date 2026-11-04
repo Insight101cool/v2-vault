@@ -10,7 +10,7 @@ tags: [atlas, api, type/atlas, area/ui, area/vfx, api/AlwaysOnTop]
 > - `Occluded` by default; `AlwaysOnTop` only when seeing through walls is intended.
 > - `AlwaysOnTop`: draw over 3D geometry (visible through walls).
 >
-> Cost: TL;DR ~130 tok · whole note ~460 tok. Read more: ## In short · ## Key facts
+> Cost: TL;DR ~130 tok · whole note ~490 tok. Read more: ## In short · ## Key facts
 <!-- tldr:end -->
 
 ## In short
@@ -28,7 +28,7 @@ API snapshot: member of `BillboardGui`, `HandleAdornment`, `SurfaceGui` (`_tools
 
 ## Mentioned in
 
-11 notes in 8 sections. The 11 most relevant are linked:
+12 notes in 9 sections. The 12 most relevant are linked:
 
 ### 01 Studio and Workflow
 [[Studio Assistant and AI Tools]]
@@ -50,6 +50,9 @@ API snapshot: member of `BillboardGui`, `HandleAdornment`, `SurfaceGui` (`_tools
 
 ### 49 Roblox Platform Features
 [[Engine Limits, Quotas and Defaults - Cheat Sheet]]
+
+### 56 Field Notes
+[[Comparable Studio Look Shots - Quality Level, Settle Time and Camera Ownership]]
 
 ### 62 Engine Reference Cards
 [[BillboardGui - Engine Reference Card]]

@@ -310,5 +310,5 @@ The senior trade-off: juice is cheap to add and expensive to tune. A small set o
 
 <!-- related:start -->
 ## Related
-[[Reward Moments and Celebrations]] · [[Hit-Stop]] · [[Collectible Pickup FX - Idle Glint, Magnet Pull and Collect Pop]] · [[Screen Damage Effects - Hit Flash, Low-Health Vignette and Blur]] · [[VFX Design Playbook]] · [[Projectile VFX - Muzzle, Travel and Impact]] · [[Gore Policy and Kid-Friendly Hit Feedback]] · [[Escalation and Grandeur Without Clutter]] · [[Auras, Shields and Status Effects]] · [[Elemental VFX Kits - Fire, Ice, Earth, Water, Wind and Lightning]]
+[[Reward Moments and Celebrations]] · [[Collectible Pickup FX - Idle Glint, Magnet Pull and Collect Pop]] · [[Screen Damage Effects - Hit Flash, Low-Health Vignette and Blur]] · [[VFX Design Playbook]] · [[Projectile VFX - Muzzle, Travel and Impact]] · [[Gore Policy and Kid-Friendly Hit Feedback]] · [[Escalation and Grandeur Without Clutter]] · [[Auras, Shields and Status Effects]] · [[Elemental VFX Kits - Fire, Ice, Earth, Water, Wind and Lightning]]
 <!-- related:end -->

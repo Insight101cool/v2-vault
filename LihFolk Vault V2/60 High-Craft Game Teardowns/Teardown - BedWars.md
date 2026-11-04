@@ -133,5 +133,5 @@ Easy.gg runs a portfolio of games with BedWars as the flagship (Unverified, stat
 
 <!-- related:start -->
 ## Related
-[[Teardown - Phantom Forces]] · [[Teardown - Jujutsu Shenanigans]] · [[Teardown - Anime Vanguards]] · [[Teardown - Apocalypse Rising 2]] · [[Teardown - Funky Friday]] · [[Teardown - Welcome to Bloxburg]] · [[Teardown - Piggy]] · [[Teardown - Deepwoken]]
+[[Teardown - Phantom Forces]] · [[Teardown - Jujutsu Shenanigans]] · [[Teardown - Anime Vanguards]] · [[Teardown - Apocalypse Rising 2]] · [[Teardown - Dueling Grounds]] · [[Teardown - Funky Friday]] · [[Teardown - Welcome to Bloxburg]] · [[Teardown - Piggy]]
 <!-- related:end -->

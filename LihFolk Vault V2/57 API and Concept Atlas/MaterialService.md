@@ -10,7 +10,7 @@ tags: [atlas, api, type/atlas, area/materials, area/world, api/MaterialService]
 > - MaterialVariants live in MaterialService with a stable naming convention.
 > - Shared everything. Trim sheets for kits, a material library of 15 to 30 variants for the whole game, templates for every...
 >
-> Cost: TL;DR ~150 tok · whole note ~540 tok. Read more: ## In short · ## Key facts
+> Cost: TL;DR ~150 tok · whole note ~570 tok. Read more: ## In short · ## Key facts
 <!-- tldr:end -->
 
 ## In short
@@ -28,7 +28,7 @@ API snapshot: service, inherits `Instance` (`_tools/roblox_api.json`, docs build
 
 ## Mentioned in
 
-16 notes in 7 sections. The 16 most relevant are linked:
+17 notes in 8 sections. The 17 most relevant are linked:
 
 ### 06 World Building and Art
 [[Materials MaterialVariants and SurfaceAppearance]] · [[Terrain Deep Dive - Materials Water and Performance]] · [[Terrain Tools and Terrain API]]
@@ -47,6 +47,9 @@ API snapshot: service, inherits `Instance` (`_tools/roblox_api.json`, docs build
 
 ### 52 Core Concepts
 [[Texel Density]]
+
+### 56 Field Notes
+[[Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps]]
 
 ### Root notes
 [[00 Start Here]] · [[Open Questions - Whole Vault]]

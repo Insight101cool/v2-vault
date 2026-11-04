@@ -97,5 +97,5 @@ Details: [[AI Asset Pipelines - Scoring, Reviewers and Spot Checks]].
 
 <!-- related:start -->
 ## Related
-[[Blind Review Scores - Noise, Panels and Shipping the Best Version]] · [[AI-Ready Project Boilerplate - Repo Layout Agents Navigate Well]] · [[Locomotion Readability - Lessons from Blind Panels]] · [[Agent Handoff Notes - Project State and Resume Templates]] · [[Thumbnail Review Checklist and Scoring Rubric]] · [[Mesh Gates for Generated Models - Symmetry, Seating and Caps]]
+[[Blind Review Scores - Noise, Panels and Shipping the Best Version]] · [[AI-Ready Project Boilerplate - Repo Layout Agents Navigate Well]] · [[Locomotion Readability - Lessons from Blind Panels]] · [[Thumbnail Review Checklist and Scoring Rubric]] · [[Agent Handoff Notes - Project State and Resume Templates]] · [[Mesh Gates for Generated Models - Symmetry, Seating and Caps]]
 <!-- related:end -->

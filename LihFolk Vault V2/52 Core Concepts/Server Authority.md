@@ -67,5 +67,5 @@ Related concepts: [[Replication Boundary]], [[Rate Limiting]], [[Idempotency]], 
 
 <!-- related:start -->
 ## Related
-[[AI Pitfalls - Networking and Security]] · [[Deterministic Simulation]] · [[Streaming Radius]] · [[Input Buffering]] · [[Session Lock]] · [[Anticipation]] · [[Event Bus]] · [[Hit-Stop]] · [[Data Schema Versioning]]
+[[AI Pitfalls - Networking and Security]] · [[Deterministic Simulation]] · [[Streaming Radius]] · [[Anticipation]] · [[Session Lock]] · [[Hit-Stop]] · [[Event Bus]] · [[Data Schema Versioning]] · [[Feature Flags]]
 <!-- related:end -->

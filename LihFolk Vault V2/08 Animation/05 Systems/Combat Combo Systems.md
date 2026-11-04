@@ -274,5 +274,5 @@ See also: [[Weapon and Combat Animation]], [[Ability Kits Architecture]], [[Hit 
 
 <!-- related:start -->
 ## Related
-[[Enemy Animation State Protocol]] · [[Timing Spacing and Frame Charts]] · [[Playback, Priorities and Blending]] · [[Stance and Charge Moves]] · [[Cinematic Ultimates]] · [[Equip Draw and Flourish Systems]] · [[Locomotion and Melee Reference Numbers]] · [[Boss Animation and Phases]]
+[[Enemy Animation State Protocol]] · [[Timing Spacing and Frame Charts]] · [[Playback, Priorities and Blending]] · [[Stance and Charge Moves]] · [[Cinematic Ultimates]] · [[Locomotion and Melee Reference Numbers]] · [[Equip Draw and Flourish Systems]] · [[Boss Animation and Phases]]
 <!-- related:end -->

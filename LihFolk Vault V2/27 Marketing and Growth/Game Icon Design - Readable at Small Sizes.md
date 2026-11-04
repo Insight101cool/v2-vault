@@ -130,5 +130,5 @@ The icon must represent the game. A character or creature that does not appear i
 
 <!-- related:start -->
 ## Related
-[[Thumbnail Composition for High CTR - Focal Point, Contrast and Readability]] · [[Click-Through Rate]] · [[Thumbnail Specs, Rules and Upload - Sizes, Count and Policy]] · [[Thumbnail Review Checklist and Scoring Rubric]] · [[Making Thumbnails in Studio and Blender - Capture, Lighting and Posing]] · [[Experience Description and Search Keywords]]
+[[Thumbnail Composition for High CTR - Focal Point, Contrast and Readability]] · [[Thumbnail Specs, Rules and Upload - Sizes, Count and Policy]] · [[Click-Through Rate]] · [[Thumbnail Review Checklist and Scoring Rubric]] · [[Making Thumbnails in Studio and Blender - Capture, Lighting and Posing]] · [[Experience Description and Search Keywords]]
 <!-- related:end -->

@@ -42,6 +42,7 @@ The foundations these notes build on live elsewhere:
 
 **Luau**
 - [[ipairs Stops at the First nil - Cleanup Tables That Leak]]: optional `nil` entries that leak looping sounds, and cleanup shapes that cannot skip.
+- [[Deferred Events - Decide From the Arguments, Not the Property]]: handlers run later; decide from the event's arguments, never by rereading the property.
 
 **Players, joins and status**
 - [[Streaming Joins - Frozen Players and Loading Screen Teardown]]: mid-air join poses are normal; loading screens need idempotent teardown and a watchdog.
@@ -54,6 +55,8 @@ The foundations these notes build on live elsewhere:
 - [[Moving Data Out of a Play Session]]: separate data models, a localhost bridge, chunked returns, baking runtime GUIs.
 - [[Running Many AI Agents on One Roblox Place]]: ownership, claim files, fresh reads, disk backups, Play as a lock, edit markers.
 - [[Blind Review Scores - Noise, Panels and Shipping the Best Version]]: single reviewers run about 1 point high, panels differ by about 1; back up every version and ship the best panel score.
+- [[Comparable Studio Look Shots - Quality Level, Settle Time and Camera Ownership]]: pin the quality level from the Client, wait about 20 s, own the camera, freeze poses.
+- [[Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps]]: fast reduction, Open Cloud uploads, runtime mesh routes and the 2048-stud rescale.
 
 ## Quick rules from this section
 
@@ -62,6 +65,9 @@ The foundations these notes build on live elsewhere:
 - Predict hit *feel* locally; keep damage and numbers on the server.
 - Every hold, lock or status has an end that does not depend on a message arriving.
 - Never put a possibly-`nil` value in an array you will `ipairs`.
+- Under deferred events, decide from the handler's arguments, not the live property.
+- Pin the render quality level before comparing look shots.
+- Set imported mesh sizes from source data; never trust the upload's scale.
 - Bulk Studio scripts: plain `find` before patterns, yield every ~50 ms, compile-check before writing.
 - One owner per module; re-read before every edit; tag every edit.
 

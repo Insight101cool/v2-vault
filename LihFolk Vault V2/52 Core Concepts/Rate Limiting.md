@@ -73,5 +73,5 @@ Related concepts: [[Server Authority]], [[Input Buffering]], [[Telemetry Events]
 
 <!-- related:start -->
 ## Related
-[[Input Buffering]] · [[Replication Boundary]] · [[Feature Flags]] · [[Session Lock]] · [[Idempotency]] · [[Streaming Radius]] · [[Deterministic Simulation]] · [[Event Bus]]
+[[Replication Boundary]] · [[Feature Flags]] · [[Session Lock]] · [[Idempotency]] · [[Streaming Radius]] · [[Deterministic Simulation]] · [[Event Bus]] · [[Frame Budget]]
 <!-- related:end -->

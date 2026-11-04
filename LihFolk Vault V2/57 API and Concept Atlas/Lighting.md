@@ -10,7 +10,7 @@ tags: [atlas, api, type/atlas, area/vfx, area/modeling, api/Lighting]
 > - Fog settings do nothing: An `Atmosphere` is in `Lighting` (fog properties are hidden and... -> Use `Atmosphere.Density`/`Haze`...
 > - Avoid: Server tweens `Lighting` -> Server writes attributes, client interpolates.
 >
-> Cost: TL;DR ~140 tok · whole note ~910 tok. Read more: ## In short · ## Key facts
+> Cost: TL;DR ~140 tok · whole note ~930 tok. Read more: ## In short · ## Key facts
 <!-- tldr:end -->
 
 ## In short
@@ -30,7 +30,7 @@ API snapshot: service, inherits `Instance` (`_tools/roblox_api.json`, docs build
 
 ## Mentioned in
 
-41 notes in 23 sections. The 25 most relevant are linked:
+42 notes in 24 sections. The 25 most relevant are linked:
 
 ### 06 World Building and Art
 [[Water Sky and Atmosphere Art]] · [[Zone and Biome Art Direction]]
@@ -77,6 +77,6 @@ API snapshot: service, inherits `Instance` (`_tools/roblox_api.json`, docs build
 ### 61 Thumbnails and CTR
 [[Making Thumbnails in Studio and Blender - Capture, Lighting and Posing]]
 
-Also mentioned in (not linked): Client-Server Model · Creator Store and Toolbox Safety · Figma Property Mapping for Roblox UI · Glossary · Hand-Painted and Stylized Texturing · Low-Poly and Stylized Modeling · MaterialService and Custom Materials · Normal Maps and Detail Baking · Open Questions - Whole Vault · Photo Mode and In-Game Screenshots with CaptureService · Pixel Art Pipeline - Aseprite to Roblox Without Blur · Reserved and Private Servers in Practice · Safe Changes in a Shared Place · Studio Interface Tour · Substance Painter and Texturing Tools · Weather Performance Budgets and Quality Tiers
+Also mentioned in (not linked): Client-Server Model · Creator Store and Toolbox Safety · Figma Property Mapping for Roblox UI · Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps · Glossary · Hand-Painted and Stylized Texturing · Low-Poly and Stylized Modeling · MaterialService and Custom Materials · Normal Maps and Detail Baking · Open Questions - Whole Vault · Photo Mode and In-Game Screenshots with CaptureService · Pixel Art Pipeline - Aseprite to Roblox Without Blur · Reserved and Private Servers in Practice · Safe Changes in a Shared Place · Studio Interface Tour · Substance Painter and Texturing Tools · Weather Performance Budgets and Quality Tiers
 
 <!-- atlas:generated -->

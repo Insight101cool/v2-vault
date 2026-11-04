@@ -140,5 +140,5 @@ Bosses, hazards and rewards start on the server. They use the same remote and pa
 
 <!-- related:start -->
 ## Related
-[[Projectile VFX - Muzzle, Travel and Impact]] · [[Combat Sound Design and Feedback]] · [[Ice Ball Cast to Explosion - Approved Recipe]] · [[Collectible Pickup FX - Idle Glint, Magnet Pull and Collect Pop]] · [[VFX Design Playbook]] · [[Escalation and Grandeur Without Clutter]] · [[Slash VFX Recipes - Crescent and Ring]] · [[Particle Emitters In Depth]]
+[[Projectile VFX - Muzzle, Travel and Impact]] · [[Ice Ball Cast to Explosion - Approved Recipe]] · [[Combat Sound Design and Feedback]] · [[Collectible Pickup FX - Idle Glint, Magnet Pull and Collect Pop]] · [[VFX Design Playbook]] · [[Escalation and Grandeur Without Clutter]] · [[Particle Emitters In Depth]] · [[Slash VFX Recipes - Crescent and Ring]]
 <!-- related:end -->
