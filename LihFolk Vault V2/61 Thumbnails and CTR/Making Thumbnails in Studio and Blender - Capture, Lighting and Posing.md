@@ -194,5 +194,5 @@ AI-assisted retouching follows the same truth rule; see [[AI Image Generation fo
 
 <!-- related:start -->
 ## Related
-[[Thumbnail Review Checklist and Scoring Rubric]] · [[Thumbnail Contrast]] · [[Thumbnail Specs, Rules and Upload - Sizes, Count and Policy]] · [[Game Icon Design - Readable at Small Sizes]] · [[Stylized Lighting Recipes]] · [[Thumbnail Genre Patterns - What Top Games Show]]
+[[Thumbnail Review Checklist and Scoring Rubric]] · [[Thumbnail Specs, Rules and Upload - Sizes, Count and Policy]] · [[Thumbnail Contrast]] · [[Game Icon Design - Readable at Small Sizes]] · [[Stylized Lighting Recipes]] · [[Thumbnail Genre Patterns - What Top Games Show]]
 <!-- related:end -->

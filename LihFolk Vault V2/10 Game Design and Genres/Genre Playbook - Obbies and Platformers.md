@@ -302,5 +302,5 @@ The ethical line: **do not tune stages to be unfair so that skips sell**. Player
 
 <!-- related:start -->
 ## Related
-[[Obby Checkpoints and Stage Saves End to End]] · [[Genre Playbook - Puzzle and Escape Rooms]] · [[Genre Playbook - Party and Minigame Collections]] · [[Onboarding by Genre - The First Five Minutes]] · [[Genre Playbook - Racing and Driving]] · [[Genre Playbook - Tycoons]] · [[Progression and Pacing Design]] · [[Genre Playbook - Tower Defense]] · [[Genre Playbook - Combat and RPG]]
+[[Obby Checkpoints and Stage Saves End to End]] · [[Genre Playbook - Puzzle and Escape Rooms]] · [[Genre Playbook - Party and Minigame Collections]] · [[Onboarding by Genre - The First Five Minutes]] · [[Genre Playbook - Racing and Driving]] · [[Genre Playbook - Tycoons]] · [[Progression and Pacing Design]] · [[Genre Playbook - Tower Defense]] · [[Genre Playbook - Sports]]
 <!-- related:end -->

@@ -467,5 +467,5 @@ end
 
 <!-- related:start -->
 ## Related
-[[Character Select and Class Systems with Different Rigs]] · [[Cookbook - UI]] · [[Players - Engine Reference Card]] · [[Humanoid - Engine Reference Card]] · [[Snippets - Ragdoll]] · [[Cookbook - Tables Strings and Time]]
+[[Character Select and Class Systems with Different Rigs]] · [[Cookbook - UI]] · [[Players - Engine Reference Card]] · [[Snippets - Ragdoll]] · [[Humanoid - Engine Reference Card]] · [[Cookbook - Tables Strings and Time]]
 <!-- related:end -->

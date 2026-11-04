@@ -136,5 +136,5 @@ Monad Studios East, a subdivision of Monad Studios, formerly known by other grou
 
 <!-- related:start -->
 ## Related
-[[Teardown - Apocalypse Rising 2]] · [[Teardown - Blade Ball]] · [[Teardown - Grace]] · [[Teardown - Phantom Forces]] · [[Teardown - Anime Vanguards]] · [[Teardown - BedWars]] · [[Teardown - Pressure]] · [[Teardown - Arsenal]]
+[[Teardown - Dueling Grounds]] · [[Teardown - Apocalypse Rising 2]] · [[Teardown - Blade Ball]] · [[Teardown - Grace]] · [[Teardown - Phantom Forces]] · [[Teardown - Anime Vanguards]] · [[Teardown - BedWars]] · [[Teardown - Pressure]]
 <!-- related:end -->

@@ -61,5 +61,5 @@ Related concepts: [[Hit-Stop]], [[Input Buffering]], [[Easing]], [[Tween vs Spri
 
 <!-- related:start -->
 ## Related
-[[Input Buffering]] · [[Server Authority]] · [[Skinning Weights]] · [[Onboarding Funnel]] · [[Thumbnail Contrast]] · [[Accessibility Contrast]] · [[Deterministic Simulation]] · [[Safe Area]]
+[[Server Authority]] · [[Skinning Weights]] · [[Onboarding Funnel]] · [[Thumbnail Contrast]] · [[Accessibility Contrast]] · [[Deterministic Simulation]] · [[Safe Area]] · [[Core Loop]]
 <!-- related:end -->

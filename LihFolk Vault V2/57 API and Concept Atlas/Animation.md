@@ -10,7 +10,7 @@ tags: [atlas, api, type/atlas, area/animation, area/performance, api/Animation]
 > - Preload with `ContentProvider:PreloadAsync` on the `Animation` objects during the loading screen, and fit `duration` only...
 > - Saved clips (Animation Editor Save) are `KeyframeSequence`s in ServerStorage: no id at all.
 >
-> Cost: TL;DR ~150 tok · whole note ~700 tok. Read more: ## In short · ## Key facts
+> Cost: TL;DR ~150 tok · whole note ~720 tok. Read more: ## In short · ## Key facts
 <!-- tldr:end -->
 
 ## In short
@@ -28,7 +28,7 @@ API snapshot: class, inherits `Instance` (`_tools/roblox_api.json`, docs build o
 
 ## Mentioned in
 
-43 notes in 7 sections. The 25 most relevant are linked:
+44 notes in 8 sections. The 25 most relevant are linked:
 
 ### 08 Animation
 [[Animation Asset Permissions and Groups]] · [[Animation Editor Advanced]] · [[Animation Glossary]] · [[Animation Objects]] · [[AnimationTrack Reference]] · [[Animator Deep Dive]] · [[Combat Animation Craft]] · [[Debugging Animation Problems]] · [[Emotes and Social Animation]] · [[Engine Gotchas]] · [[KeyframeSequence Keyframe and Pose Reference]] · [[Lua Keyframe Player]] · [[Moon Animator and Third-Party Tools]] · [[Performance and Memory]] · [[Publishing Animations]] · [[Replication and Ownership]] · [[Snippets - Building and Sampling Clips]] · [[Snippets - Playing Animations]] · [[Testing Animations in Studio]] · [[The Default Animate Script]]
@@ -45,6 +45,6 @@ API snapshot: class, inherits `Instance` (`_tools/roblox_api.json`, docs build o
 ### 61 Thumbnails and CTR
 [[Making Thumbnails in Studio and Blender - Capture, Lighting and Posing]]
 
-Also mentioned in (not linked): Ability Kits Architecture · Animator - Engine Reference Card · Authoring Clips in Code · Case Study - Abilities That Only Worked in Studio · Combat Combo Systems · Custom Characters and StarterCharacter · Custom Locomotion Controller Design · Frame Order and RunService Timing · Idle Breathing and Secondary Motion · Locomotion Systems · Lua Keyframe Player Internals · Melee Combat System End to End · Memory Budgets and Leaks · Multi-Bone IK - FABRIK and CCD · Snippets - Enemy Client Animator · Snippets - Lua Keyframe Player Core · Studio Tooling Architecture · Troubleshooting Table
+Also mentioned in (not linked): Ability Kits Architecture · Animator - Engine Reference Card · Authoring Clips in Code · Case Study - Abilities That Only Worked in Studio · Combat Combo Systems · Custom Characters and StarterCharacter · Custom Locomotion Controller Design · Frame Order and RunService Timing · Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps · Idle Breathing and Secondary Motion · Locomotion Systems · Lua Keyframe Player Internals · Melee Combat System End to End · Memory Budgets and Leaks · Multi-Bone IK - FABRIK and CCD · Snippets - Enemy Client Animator · Snippets - Lua Keyframe Player Core · Studio Tooling Architecture · Troubleshooting Table
 
 <!-- atlas:generated -->

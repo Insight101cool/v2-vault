@@ -16,7 +16,7 @@ This section takes apart high-production Roblox games across genres and asks one
   - **Rule of thumb**: our design reading or engineering advice, not a published fact.
   - **Unverified**: press, wikis, community guides or developer posts we could not confirm independently.
 - **Snapshot week caveat.** 29 October 2026 fell during Roblox's Halloween platform event, so "playing now" counts are event-week numbers. Tracker peaks only cover the period a tracker has been recording, so older games' true peaks may be higher than shown.
-- **Nothing was played or logged into.** Mechanics come from public pages, official posts and community guides, labelled as such.
+- **Nothing was played or logged into**, except Dueling Grounds, whose numbers come from frame-stepping a project owner's own duel recordings. Mechanics come from public pages, official posts and community guides, labelled as such.
 - **Original wording only.** No descriptions, images or assets were copied. Copy mechanisms, never names, characters or art.
 
 ## The games
@@ -32,6 +32,7 @@ This section takes apart high-production Roblox games across genres and asks one
 | Tactical FPS (classic) | [[Teardown - Phantom Forces]] | 32-player servers, 90.7% rating (Measured, Roblox API, 2026-10-29) | Client-detected hits, server-validated with a latency-aware window |
 | Arcade shooter (classic) | [[Teardown - Arsenal]] | 6.3 billion visits (Measured, Roblox API, 2026-10-29) | Remove the loadout decision; normalise hitboxes |
 | PvP sandbox | [[Teardown - BedWars]] | 334,747 peak CCU on 27 Aug 2022 (Measured, Rolimons) | Building is combat: predict blocks on the client, own them on the server |
+| Sword duels (1v1) | [[Teardown - Dueling Grounds]] | Light chain gap median 0.42 s, heavy contact 0.29-0.34 s after wind-up (Measured, frame-read from duel recordings, 2026-11-03) | One look per outcome, no text pop-ups, and bursts only when something changes |
 | Skill PvP | [[Teardown - Blade Ball]] | 511,924 peak CCU on 19 Nov 2023 (Measured, Rolimons) | One input with rising tempo; timestamped parries with a capped rewind |
 | Anime battlegrounds | [[Teardown - Jujutsu Shenanigans]] | 697,083 peak CCU about 24 Oct 2026 (Measured, Rolimons, read 2026-10-29) | Hidden timing rewards and readable, fast-clearing VFX |
 | Souls-like RPG | [[Teardown - Deepwoken]] | 400 Robux paid access; 62,422 peak CCU on 23 Dec 2022 (Measured) | Commitment combat plus permanent stakes, protected by bulletproof saves |
@@ -45,7 +46,7 @@ The cross-cutting synthesis is [[What Craft Looks Like on Roblox - Lessons from 
 ## Reading paths
 
 - **Making a horror game:** Pressure, Grace, Dandy's World, Piggy, then [[Case Study - Doors]] and [[Case Study - Forsaken]]. Pair with [[Genre Playbook - Horror and Story]] and [[Horror Monster Chase AI End to End]].
-- **Making a combat or PvP game:** Jujutsu Shenanigans, Deepwoken, BedWars, Blade Ball. Pair with [[Melee Combat System End to End]], [[Client Prediction and Reconciliation for Combat]] and [[Game Feel Start Here]].
+- **Making a combat or PvP game:** Jujutsu Shenanigans, Deepwoken, Dueling Grounds, BedWars, Blade Ball. Pair with [[Melee Combat System End to End]], [[Client Prediction and Reconciliation for Combat]] and [[Game Feel Start Here]].
 - **Making a shooter:** Phantom Forces, Arsenal, then [[Case Study - Rivals]]. Pair with [[Genre Playbook - Shooters FPS and TPS]] and [[Gun Feel - Recoil, Spread, Bloom and Headshot Multipliers]].
 - **Making a social or building game:** Welcome to Bloxburg, then [[Case Study - Brookhaven RP]]. Pair with [[Grid Placement and Player Building Systems]].
 - **Making a niche genre (rhythm, racing, tower defense):** Funky Friday, Driving Empire, Anime Vanguards. Pair with [[Music and Adaptive Audio]], [[Physics and Vehicles Start Here]] and [[Genre Playbook - Tower Defense]].

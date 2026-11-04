@@ -10,7 +10,7 @@ tags: [atlas, api, type/atlas, area/materials, area/vfx, api/MaterialVariant]
 > - Avoid: Expecting `MaterialVariant` names from `RaycastResult.Material`.
 > - `MaterialVariant`: a custom tiling material that lives in `MaterialService` and is selected by name on a part...
 >
-> Cost: TL;DR ~150 tok · whole note ~700 tok. Read more: ## In short · ## Key facts
+> Cost: TL;DR ~150 tok · whole note ~720 tok. Read more: ## In short · ## Key facts
 <!-- tldr:end -->
 
 ## In short
@@ -30,7 +30,7 @@ API snapshot: class, inherits `Instance` (`_tools/roblox_api.json`, docs build o
 
 ## Mentioned in
 
-26 notes in 11 sections. The 25 most relevant are linked:
+27 notes in 12 sections. The 25 most relevant are linked:
 
 ### 01 Studio and Workflow
 [[Studio Assistant and AI Tools]]
@@ -62,9 +62,9 @@ API snapshot: class, inherits `Instance` (`_tools/roblox_api.json`, docs build o
 ### 55 Modelling Nuance and Readability
 [[Bevels Chamfers and Edge Highlights Without Textures]] · [[Style Bibles for Consistent Models]]
 
-### Root notes
-[[Glossary]]
+### 56 Field Notes
+[[Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps]]
 
-Also mentioned in (not linked): Skill - Roblox Asset Import
+Also mentioned in (not linked): Glossary · Skill - Roblox Asset Import
 
 <!-- atlas:generated -->

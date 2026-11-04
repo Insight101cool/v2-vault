@@ -88,5 +88,5 @@ These apply to every setting in this section; section 42 explains each in depth.
 
 <!-- related:start -->
 ## Related
-[[Top 25 QoL Wins by Effort]] · [[Onboarding Accessibility and Cross-Device Prompts]] · [[Loading Screen Skip and First-Session Goals]] · [[Quick Respawn and Spawn Protection]] · [[Graphics and Performance Toggles for Low-End Devices]] · [[GuiService - Engine Reference Card]]
+[[Top 25 QoL Wins by Effort]] · [[Onboarding Accessibility and Cross-Device Prompts]] · [[Loading Screen Skip and First-Session Goals]] · [[Graphics and Performance Toggles for Low-End Devices]] · [[Quick Respawn and Spawn Protection]] · [[GuiService - Engine Reference Card]]
 <!-- related:end -->

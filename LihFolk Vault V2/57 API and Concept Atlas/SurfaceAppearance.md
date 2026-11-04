@@ -30,13 +30,13 @@ API snapshot: class, inherits `Instance` (`_tools/roblox_api.json`, docs build o
 
 ## Mentioned in
 
-77 notes in 18 sections. The 25 most relevant are linked:
+78 notes in 19 sections. The 25 most relevant are linked:
 
 ### 06 World Building and Art
 [[Art Budgets - Triangles Draw Calls Memory]] · [[Materials MaterialVariants and SurfaceAppearance]] · [[Parts Unions and MeshParts]] · [[Textures Decals and Texture Memory]] · [[Voxel Art - Studs Outlines and Style Kits]]
 
 ### 14 3D Modeling
-[[Low-Poly and Stylized Modeling]] · [[Mesh Optimization for Mobile]] · [[Normal Maps and Detail Baking]] · [[Substance Painter and Texturing Tools]] · [[Texturing and PBR Baking]] · [[Trim Sheets Atlases and Vertex Colors]]
+[[Low-Poly and Stylized Modeling]] · [[Mesh Optimization for Mobile]] · [[Substance Painter and Texturing Tools]] · [[Texturing and PBR Baking]] · [[Trim Sheets Atlases and Vertex Colors]]
 
 ### 15 AI Tools
 [[AI Material and Texture Generation]]
@@ -59,9 +59,12 @@ API snapshot: class, inherits `Instance` (`_tools/roblox_api.json`, docs build o
 ### 55 Modelling Nuance and Readability
 [[Bevels Chamfers and Edge Highlights Without Textures]]
 
+### 56 Field Notes
+[[Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps]]
+
 ### Root notes
 [[Open Questions - Whole Vault]]
 
-Also mentioned in (not linked): 00 Start Here · AI Pitfalls - Assets and Import · Asset Upload Automation with Open Cloud · Build Test and Release Pipeline · Designing VFX Textures and Flipbooks in Figma · Draw Calls · Engine and API Changes 2025-2026 · Environment Art Styles · Exporting and Validating Models for Roblox · Foliage Props and Scatter · Git and Source Control for Roblox · Glossary · Hand-Painted and Stylized Texturing · Hard-Surface Modeling · Keeping a Mixed Asset Library Consistent · Layered Clothing Cages and Animation · Level of Detail and Model Streaming · Lighting Technologies and Settings · Lighting Untextured Art in Roblox · Materials and Surfaces Start Here · Memory Budgets and Leaks · Meshing Voxels for Roblox - Greedy Meshing and Export · Modeling Fundamentals for Games · Modeling in Blender for Roblox · Modelling Nuance Start Here · Packages and Asset Reuse · Pipeline - Importing Animated Enemies · Places Universes and Experience Settings · Procedural Materials and Skies - Lessons · Rain - Camera-Local Particles, Splashes and Wet Surfaces · Rendering Performance · Roads, Rivers and Paths Carved Along Curves in Terrain · Roblox Generative AI - Cube Mesh and Texture Generation · Skill - Roblox Asset Import · Squash Stretch and Anticipation in UI and Characters · Studio Assistant and AI Tools · Style Bibles for Consistent Models · Stylised Weapons From a Concept · Stylized Creatures - Soft Forms, Painted Gradients and Light Rigs · Terrain Deep Dive - Materials Water and Performance · Terrain Materials and Painting · Terrain Tools and Terrain API · Texel Density · UGC Avatar Items and Accessories · UV Unwrapping · Untextured Stylised Modelling Start Here · Voxel Chibi Heroes - Class Roster and Rarity Ladder · Voxel Modelling Start Here · Voxel Shading - Baked AO Edges and Lighting · Voxel and Blocky Modeling · Water Sky and Atmosphere Art · Weapon Design Rig Builder
+Also mentioned in (not linked): 00 Start Here · AI Pitfalls - Assets and Import · Asset Upload Automation with Open Cloud · Build Test and Release Pipeline · Designing VFX Textures and Flipbooks in Figma · Draw Calls · Engine and API Changes 2025-2026 · Environment Art Styles · Exporting and Validating Models for Roblox · Foliage Props and Scatter · Git and Source Control for Roblox · Glossary · Hand-Painted and Stylized Texturing · Hard-Surface Modeling · Keeping a Mixed Asset Library Consistent · Layered Clothing Cages and Animation · Level of Detail and Model Streaming · Lighting Technologies and Settings · Lighting Untextured Art in Roblox · Materials and Surfaces Start Here · Memory Budgets and Leaks · Meshing Voxels for Roblox - Greedy Meshing and Export · Modeling Fundamentals for Games · Modeling in Blender for Roblox · Modelling Nuance Start Here · Normal Maps and Detail Baking · Packages and Asset Reuse · Pipeline - Importing Animated Enemies · Places Universes and Experience Settings · Procedural Materials and Skies - Lessons · Rain - Camera-Local Particles, Splashes and Wet Surfaces · Rendering Performance · Roads, Rivers and Paths Carved Along Curves in Terrain · Roblox Generative AI - Cube Mesh and Texture Generation · Skill - Roblox Asset Import · Squash Stretch and Anticipation in UI and Characters · Studio Assistant and AI Tools · Style Bibles for Consistent Models · Stylised Weapons From a Concept · Stylized Creatures - Soft Forms, Painted Gradients and Light Rigs · Terrain Deep Dive - Materials Water and Performance · Terrain Materials and Painting · Terrain Tools and Terrain API · Texel Density · UGC Avatar Items and Accessories · UV Unwrapping · Untextured Stylised Modelling Start Here · Voxel Chibi Heroes - Class Roster and Rarity Ladder · Voxel Modelling Start Here · Voxel Shading - Baked AO Edges and Lighting · Voxel and Blocky Modeling · Water Sky and Atmosphere Art · Weapon Design Rig Builder
 
 <!-- atlas:generated -->

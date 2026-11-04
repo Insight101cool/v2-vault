@@ -427,5 +427,5 @@ The senior trade-off: events decouple code but hide the flow. A system with 30 s
 
 <!-- related:start -->
 ## Related
-[[Event Bus]] · [[Custom Schedulers and Coroutine Patterns]] · [[Tables Metatables and OOP]] · [[Metatables and OOP - When and When Not]] · [[Script Types and Run Context]] · [[Error Handling - pcall xpcall and Promise Patterns]] · [[Module Scripts and Requiring]] · [[Luau Performance Patterns with Benchmarks]] · [[Luau Type System and Strict Mode]] · [[Error Handling and Retries]]
+[[Deferred Events - Decide From the Arguments, Not the Property]] · [[Event Bus]] · [[Tables Metatables and OOP]] · [[Metatables and OOP - When and When Not]] · [[Script Types and Run Context]] · [[Error Handling - pcall xpcall and Promise Patterns]] · [[Module Scripts and Requiring]] · [[Luau Performance Patterns with Benchmarks]] · [[Luau Type System and Strict Mode]] · [[Error Handling and Retries]]
 <!-- related:end -->

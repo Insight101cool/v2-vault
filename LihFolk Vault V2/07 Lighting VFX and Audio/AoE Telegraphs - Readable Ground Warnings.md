@@ -168,5 +168,5 @@ Test against the character's root position plus a small margin (0.5-1 stud) in t
 
 <!-- related:start -->
 ## Related
-[[Auras, Shields and Status Effects]] · [[Projectile VFX - Muzzle, Travel and Impact]] · [[VFX Readability and Value - Lessons from Blind Reviews]] · [[Highlights and Selection Effects]] · [[Slash VFX Recipes - Crescent and Ring]] · [[Light Sources and Shadows]] · [[Escalation and Grandeur Without Clutter]] · [[Designing VFX Textures and Flipbooks in Figma]]
+[[Auras, Shields and Status Effects]] · [[Projectile VFX - Muzzle, Travel and Impact]] · [[VFX Readability and Value - Lessons from Blind Reviews]] · [[Highlights and Selection Effects]] · [[Slash VFX Recipes - Crescent and Ring]] · [[Light Sources and Shadows]] · [[Designing VFX Textures and Flipbooks in Figma]] · [[Escalation and Grandeur Without Clutter]]
 <!-- related:end -->

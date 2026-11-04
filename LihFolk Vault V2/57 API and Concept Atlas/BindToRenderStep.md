@@ -10,7 +10,7 @@ tags: [atlas, api, type/atlas, area/animation, area/gameplay, api/BindToRenderSt
 > - Put every camera writer on `BindToRenderStep` with an explicit priority and document the order in one place.
 > - Camera work belongs in `PreRender`/`BindToRenderStep`.
 >
-> Cost: TL;DR ~120 tok · whole note ~470 tok. Read more: ## In short · ## Key facts
+> Cost: TL;DR ~120 tok · whole note ~490 tok. Read more: ## In short · ## Key facts
 <!-- tldr:end -->
 
 ## In short
@@ -27,7 +27,7 @@ API snapshot: member of `RunService` (`_tools/roblox_api.json`, docs build of 20
 
 ## Mentioned in
 
-19 notes in 8 sections. The 19 most relevant are linked:
+20 notes in 8 sections. The 20 most relevant are linked:
 
 ### 05 UI and UX
 [[Off-Screen Objective Markers and Waypoint Arrows]]
@@ -45,7 +45,7 @@ API snapshot: member of `RunService` (`_tools/roblox_api.json`, docs build of 20
 [[Side-Scroller in 3D - Locking Camera and Movement to a Plane]]
 
 ### 56 Field Notes
-[[Layering Camera Feedback on the Default Camera]]
+[[Comparable Studio Look Shots - Quality Level, Settle Time and Camera Ownership]] · [[Layering Camera Feedback on the Default Camera]]
 
 ### 58 Player QoL and Game Tweaks
 [[Camera Settings - FOV Shake Sensitivity and Shift-Lock]]

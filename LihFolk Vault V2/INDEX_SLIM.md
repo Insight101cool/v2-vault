@@ -908,7 +908,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Feedback Timing - Sound Visual and Haptic Sync | 47 Game Feel and Juice/Feedback Timing - Sound Visual and Haptic Sync.md | game-feel, juice, audio, haptics, timing, latency, sync, feedback, luau | ~5.0k tok
 - Game Feel Start Here | 47 Game Feel and Juice/Game Feel Start Here.md | game-feel, juice, hub, start-here | ~1.2k tok
 - Hit-Stop and Screen Shake Tuning by Numbers | 47 Game Feel and Juice/Hit-Stop and Screen Shake Tuning by Numbers.md | game-feel, juice, hit-stop, camera-shake, tuning, combat, numbers, luau | ~5.3k tok
-- Input Responsiveness Buffering and Coyote Time | 47 Game Feel and Juice/Input Responsiveness Buffering and Coyote Time.md | game-feel, input, responsiveness, buffering, coyote-time, controls, combat, platformer, luau | ~5.6k tok
+- Input Responsiveness Buffering and Coyote Time | 47 Game Feel and Juice/Input Responsiveness Buffering and Coyote Time.md | game-feel, input, responsiveness, buffering, coyote-time, controls, combat, platformer, luau | ~5.7k tok
 - Juice on a Budget - Mobile and Low-End | 47 Game Feel and Juice/Juice on a Budget - Mobile and Low-End.md | game-feel, juice, performance, mobile, low-end, pooling, budgets, luau | ~5.3k tok
 - Reward Moments and Celebrations | 47 Game Feel and Juice/Reward Moments and Celebrations.md | game-feel, juice, rewards, celebrations, ui, rng, pacing, ethics, luau | ~4.9k tok
 - Squash Stretch and Anticipation in UI and Characters | 47 Game Feel and Juice/Squash Stretch and Anticipation in UI and Characters.md | game-feel, juice, squash-stretch, anticipation, ui, animation, springs, luau | ~4.9k tok
@@ -984,7 +984,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Faucets and Sinks | 52 Core Concepts/Faucets and Sinks.md | core-concept, economy, game-design, balancing | ~960 tok
 - Feature Flags | 52 Core Concepts/Feature Flags.md | core-concept, live-ops, release, architecture | ~1.0k tok
 - Frame Budget | 52 Core Concepts/Frame Budget.md | core-concept, performance, rendering, scripting | ~960 tok
-- Hit-Stop | 52 Core Concepts/Hit-Stop.md | core-concept, game-feel, combat, animation | ~960 tok
+- Hit-Stop | 52 Core Concepts/Hit-Stop.md | core-concept, game-feel, combat, animation | ~950 tok
 - Idempotency | 52 Core Concepts/Idempotency.md | core-concept, data, purchases, reliability, security | ~1.1k tok
 - Input Buffering | 52 Core Concepts/Input Buffering.md | core-concept, input, game-feel, combat, controls | ~930 tok
 - Instance Count | 52 Core Concepts/Instance Count.md | core-concept, performance, memory, world-building | ~920 tok
@@ -1050,7 +1050,10 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Blind Review Scores - Noise, Panels and Shipping the Best Version | 56 Field Notes/Blind Review Scores - Noise, Panels and Shipping the Best Version.md | field-notes, review, scoring, rubric, panel, median, reviewer-noise, ai-agents, versioning, backups, animation, vfx, lihfolk | ~1.1k tok
 - Centre-Screen Announcements That Stay Centred | 56 Field Notes/Centre-Screen Announcements That Stay Centred.md | field-notes, ui, announcements, layout, queue, notifications, luau | ~1.7k tok
 - Client Hit Prediction for Melee Feedback | 56 Field Notes/Client Hit Prediction for Melee Feedback.md | field-notes, combat, melee, prediction, latency, networking, game-feel, luau | ~1.7k tok
-- Field Notes Start Here | 56 Field Notes/Field Notes Start Here.md | field-notes, hub, start-here, gotchas, production, lessons | ~1.4k tok
+- Comparable Studio Look Shots - Quality Level, Settle Time and Camera Ownership | 56 Field Notes/Comparable Studio Look Shots - Quality Level, Settle Time and Camera Ownership.md | field-notes, studio, mcp, screenshots, look-dev, lighting, quality-level, testing, ai-agents | ~1.9k tok
+- Deferred Events - Decide From the Arguments, Not the Property | 56 Field Notes/Deferred Events - Decide From the Arguments, Not the Property.md | field-notes, luau, events, deferred, signalbehavior, ancestrychanged, tools, race-conditions | ~1.0k tok
+- Field Notes Start Here | 56 Field Notes/Field Notes Start Here.md | field-notes, hub, start-here, gotchas, production, lessons | ~1.5k tok
+- Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps | 56 Field Notes/Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps.md | field-notes, meshes, open-cloud, upload, rojo, blender, ai-models, import, meshpart, surfaceappearance | ~2.1k tok
 - Held Weapons on Motor6D - Locking the Grip During Attacks | 56 Field Notes/Held Weapons on Motor6D - Locking the Grip During Attacks.md | field-notes, animation, motor6d, weapons, grip, procedural, combat | ~1.8k tok
 - Hold-to-Attack Input That Never Sticks | 56 Field Notes/Hold-to-Attack Input That Never Sticks.md | field-notes, input, contextactionservice, combat, stamina, gamepad, luau | ~1.8k tok
 - Layering Camera Feedback on the Default Camera | 56 Field Notes/Layering Camera Feedback on the Default Camera.md | field-notes, camera, bindtorenderstep, fov, game-feel, playermodule, luau | ~2.0k tok
@@ -1073,11 +1076,11 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - API and Concept Atlas Start Here | 57 API and Concept Atlas/API and Concept Atlas Start Here.md | atlas, hub, start-here | ~1.7k tok
 - AbsoluteSize | 57 API and Concept Atlas/AbsoluteSize.md | atlas, api | ~380 tok
 - Actor | 57 API and Concept Atlas/Actor.md | atlas, api | ~250 tok
-- AdjustSpeed | 57 API and Concept Atlas/AdjustSpeed.md | atlas, api | ~590 tok
-- AlwaysOnTop | 57 API and Concept Atlas/AlwaysOnTop.md | atlas, api | ~460 tok
+- AdjustSpeed | 57 API and Concept Atlas/AdjustSpeed.md | atlas, api | ~600 tok
+- AlwaysOnTop | 57 API and Concept Atlas/AlwaysOnTop.md | atlas, api | ~490 tok
 - AnalyticsService | 57 API and Concept Atlas/AnalyticsService.md | atlas, api | ~680 tok
 - AnchorPoint | 57 API and Concept Atlas/AnchorPoint.md | atlas, api | ~630 tok
-- Animation | 57 API and Concept Atlas/Animation.md | atlas, api | ~700 tok
+- Animation | 57 API and Concept Atlas/Animation.md | atlas, api | ~720 tok
 - AnimationClipProvider | 57 API and Concept Atlas/AnimationClipProvider.md | atlas, api | ~280 tok
 - AnimationConstraint | 57 API and Concept Atlas/AnimationConstraint.md | atlas, api | ~720 tok
 - AnimationController | 57 API and Concept Atlas/AnimationController.md | atlas, api | ~640 tok
@@ -1103,7 +1106,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Bezier Curves | 57 API and Concept Atlas/Bezier Curves.md | atlas, concept | ~380 tok
 - BillboardGui | 57 API and Concept Atlas/BillboardGui.md | atlas, api | ~690 tok
 - BindToClose | 57 API and Concept Atlas/BindToClose.md | atlas, api | ~1.4k tok
-- BindToRenderStep | 57 API and Concept Atlas/BindToRenderStep.md | atlas, api | ~470 tok
+- BindToRenderStep | 57 API and Concept Atlas/BindToRenderStep.md | atlas, api | ~490 tok
 - BindableEvent | 57 API and Concept Atlas/BindableEvent.md | atlas, api | ~720 tok
 - Blender | 57 API and Concept Atlas/Blender.md | atlas, concept | ~2.3k tok
 - Blockbench | 57 API and Concept Atlas/Blockbench.md | atlas, concept | ~360 tok
@@ -1121,7 +1124,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Color3 | 57 API and Concept Atlas/Color3.md | atlas, api | ~1.4k tok
 - ColorCorrectionEffect | 57 API and Concept Atlas/ColorCorrectionEffect.md | atlas, api | ~670 tok
 - ColorShift_Bottom | 57 API and Concept Atlas/ColorShift_Bottom.md | atlas, api | ~290 tok
-- Combos | 57 API and Concept Atlas/Combos.md | atlas, concept | ~990 tok
+- Combos | 57 API and Concept Atlas/Combos.md | atlas, concept | ~1000 tok
 - ComputeAsync | 57 API and Concept Atlas/ComputeAsync.md | atlas, api | ~370 tok
 - ConfigService | 57 API and Concept Atlas/ConfigService.md | atlas, api | ~360 tok
 - ContextActionService | 57 API and Concept Atlas/ContextActionService.md | atlas, api | ~970 tok
@@ -1140,7 +1143,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - DataStore | 57 API and Concept Atlas/DataStore.md | atlas, api | ~2.0k tok
 - DataStoreService | 57 API and Concept Atlas/DataStoreService.md | atlas, api | ~800 tok
 - Day-N Retention | 57 API and Concept Atlas/Day-N Retention.md | atlas, concept | ~580 tok
-- Decimation | 57 API and Concept Atlas/Decimation.md | atlas, concept | ~620 tok
+- Decimation | 57 API and Concept Atlas/Decimation.md | atlas, concept | ~650 tok
 - Destroying | 57 API and Concept Atlas/Destroying.md | atlas, api | ~470 tok
 - DevEx | 57 API and Concept Atlas/DevEx.md | atlas, concept | ~550 tok
 - Developer Products | 57 API and Concept Atlas/Developer Products.md | atlas, concept | ~1.4k tok
@@ -1154,7 +1157,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Entity Component System | 57 API and Concept Atlas/Entity Component System.md | atlas, concept | ~210 tok
 - Exponential Backoff | 57 API and Concept Atlas/Exponential Backoff.md | atlas, concept | ~570 tok
 - FACS | 57 API and Concept Atlas/FACS.md | atlas, concept | ~340 tok
-- FBX | 57 API and Concept Atlas/FBX.md | atlas, concept | ~890 tok
+- FBX | 57 API and Concept Atlas/FBX.md | atlas, concept | ~910 tok
 - FTUE | 57 API and Concept Atlas/FTUE.md | atlas, concept | ~350 tok
 - FaceCamera | 57 API and Concept Atlas/FaceCamera.md | atlas, api | ~280 tok
 - FaceControls | 57 API and Concept Atlas/FaceControls.md | atlas, api | ~290 tok
@@ -1217,7 +1220,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Lerp | 57 API and Concept Atlas/Lerp.md | atlas, concept | ~790 tok
 - Level of Detail | 57 API and Concept Atlas/Level of Detail.md | atlas, concept | ~1.1k tok
 - LightInfluence | 57 API and Concept Atlas/LightInfluence.md | atlas, api | ~450 tok
-- Lighting | 57 API and Concept Atlas/Lighting.md | atlas, api | ~910 tok
+- Lighting | 57 API and Concept Atlas/Lighting.md | atlas, api | ~930 tok
 - Live Ops | 57 API and Concept Atlas/Live Ops.md | atlas, concept | ~1.2k tok
 - LoadAnimation | 57 API and Concept Atlas/LoadAnimation.md | atlas, api | ~650 tok
 - LocalScript | 57 API and Concept Atlas/LocalScript.md | atlas, api | ~1.7k tok
@@ -1227,8 +1230,8 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Low Poly | 57 API and Concept Atlas/Low Poly.md | atlas, concept | ~920 tok
 - Lune | 57 API and Concept Atlas/Lune.md | atlas, concept | ~380 tok
 - MagicaVoxel | 57 API and Concept Atlas/MagicaVoxel.md | atlas, concept | ~520 tok
-- MaterialService | 57 API and Concept Atlas/MaterialService.md | atlas, api | ~540 tok
-- MaterialVariant | 57 API and Concept Atlas/MaterialVariant.md | atlas, api | ~700 tok
+- MaterialService | 57 API and Concept Atlas/MaterialService.md | atlas, api | ~570 tok
+- MaterialVariant | 57 API and Concept Atlas/MaterialVariant.md | atlas, api | ~720 tok
 - Maturity Labels | 57 API and Concept Atlas/Maturity Labels.md | atlas, concept | ~590 tok
 - MaxActivationDistance | 57 API and Concept Atlas/MaxActivationDistance.md | atlas, api | ~340 tok
 - MaxVelocity | 57 API and Concept Atlas/MaxVelocity.md | atlas, api | ~420 tok
@@ -1236,7 +1239,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - MessagingService | 57 API and Concept Atlas/MessagingService.md | atlas, api | ~730 tok
 - Metatables | 57 API and Concept Atlas/Metatables.md | atlas, concept | ~620 tok
 - MicroProfiler | 57 API and Concept Atlas/MicroProfiler.md | atlas, concept | ~1.0k tok
-- Model Context Protocol | 57 API and Concept Atlas/Model Context Protocol.md | atlas, concept | ~900 tok
+- Model Context Protocol | 57 API and Concept Atlas/Model Context Protocol.md | atlas, concept | ~920 tok
 - Model | 57 API and Concept Atlas/Model.md | atlas, api | ~2.2k tok
 - Modular Kits | 57 API and Concept Atlas/Modular Kits.md | atlas, concept | ~490 tok
 - Motor6D | 57 API and Concept Atlas/Motor6D.md | atlas, api | ~1.1k tok
@@ -1274,7 +1277,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - ProfileStore | 57 API and Concept Atlas/ProfileStore.md | atlas, concept | ~270 tok
 - PromptPurchaseFinished | 57 API and Concept Atlas/PromptPurchaseFinished.md | atlas, api | ~280 tok
 - ProximityPrompt | 57 API and Concept Atlas/ProximityPrompt.md | atlas, api | ~820 tok
-- Quaternions | 57 API and Concept Atlas/Quaternions.md | atlas, concept | ~690 tok
+- Quaternions | 57 API and Concept Atlas/Quaternions.md | atlas, concept | ~720 tok
 - Quests | 57 API and Concept Atlas/Quests.md | atlas, concept | ~1.7k tok
 - R15 | 57 API and Concept Atlas/R15.md | atlas, concept | ~1.4k tok
 - R6 | 57 API and Concept Atlas/R6.md | atlas, concept | ~470 tok
@@ -1296,7 +1299,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Retopology | 57 API and Concept Atlas/Retopology.md | atlas, concept | ~480 tok
 - RigidConstraint | 57 API and Concept Atlas/RigidConstraint.md | atlas, api | ~460 tok
 - Roblox Assistant | 57 API and Concept Atlas/Roblox Assistant.md | atlas, concept | ~300 tok
-- Rojo | 57 API and Concept Atlas/Rojo.md | atlas, concept | ~1.0k tok
+- Rojo | 57 API and Concept Atlas/Rojo.md | atlas, concept | ~1.1k tok
 - RopeConstraint | 57 API and Concept Atlas/RopeConstraint.md | atlas, api | ~310 tok
 - RunService | 57 API and Concept Atlas/RunService.md | atlas, api | ~2.4k tok
 - ScaleTo | 57 API and Concept Atlas/ScaleTo.md | atlas, api | ~520 tok
@@ -1319,7 +1322,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Spatial Audio | 57 API and Concept Atlas/Spatial Audio.md | atlas, concept | ~700 tok
 - Spatial Queries | 57 API and Concept Atlas/Spatial Queries.md | atlas, concept | ~1.0k tok
 - Sponsored Ads | 57 API and Concept Atlas/Sponsored Ads.md | atlas, concept | ~600 tok
-- Stamina | 57 API and Concept Atlas/Stamina.md | atlas, concept | ~460 tok
+- Stamina | 57 API and Concept Atlas/Stamina.md | atlas, concept | ~470 tok
 - StepAnimations | 57 API and Concept Atlas/StepAnimations.md | atlas, api | ~630 tok
 - StreamingEnabled | 57 API and Concept Atlas/StreamingEnabled.md | atlas, api | ~900 tok
 - Strict Type Checking | 57 API and Concept Atlas/Strict Type Checking.md | atlas, concept | ~680 tok
@@ -1343,9 +1346,9 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - TextureID | 57 API and Concept Atlas/TextureID.md | atlas, api | ~590 tok
 - Thumbnails | 57 API and Concept Atlas/Thumbnails.md | atlas, concept | ~1.6k tok
 - Tilemaps | 57 API and Concept Atlas/Tilemaps.md | atlas, concept | ~380 tok
-- TimePosition | 57 API and Concept Atlas/TimePosition.md | atlas, api | ~500 tok
+- TimePosition | 57 API and Concept Atlas/TimePosition.md | atlas, api | ~520 tok
 - TintColor | 57 API and Concept Atlas/TintColor.md | atlas, api | ~350 tok
-- Tool | 57 API and Concept Atlas/Tool.md | atlas, api | ~570 tok
+- Tool | 57 API and Concept Atlas/Tool.md | atlas, api | ~590 tok
 - TopbarInset | 57 API and Concept Atlas/TopbarInset.md | atlas, api | ~220 tok
 - Topology | 57 API and Concept Atlas/Topology.md | atlas, concept | ~770 tok
 - TouchEnded | 57 API and Concept Atlas/TouchEnded.md | atlas, api | ~370 tok
@@ -1435,7 +1438,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 
 ## 60 High-Craft Game Teardowns
 
-- High-Craft Teardowns Start Here | 60 High-Craft Game Teardowns/High-Craft Teardowns Start Here.md | teardown, high-craft, start-here, hub, game-design, case-study | ~1.7k tok
+- High-Craft Teardowns Start Here | 60 High-Craft Game Teardowns/High-Craft Teardowns Start Here.md | teardown, high-craft, start-here, hub, game-design, case-study | ~1.8k tok
 - Teardown - Anime Vanguards | 60 High-Craft Game Teardowns/Teardown - Anime Vanguards.md | teardown, high-craft, tower-defense, strategy, anime, gacha, units, live-ops | ~2.1k tok
 - Teardown - Apocalypse Rising 2 | 60 High-Craft Game Teardowns/Teardown - Apocalypse Rising 2.md | teardown, high-craft, survival, open-world, zombies, loot, pvp, large-servers, streaming | ~2.1k tok
 - Teardown - Arsenal | 60 High-Craft Game Teardowns/Teardown - Arsenal.md | teardown, high-craft, shooter, arcade, gun-game, short-rounds, cosmetics, classic | ~1.8k tok
@@ -1444,6 +1447,7 @@ One line per note: `title | path | tags | ~whole-note tokens`. Grep it for an AP
 - Teardown - Dandy's World | 60 High-Craft Game Teardowns/Teardown - Dandy's World.md | teardown, high-craft, horror, co-op, character-roster, art-direction, stealth, alpha | ~2.4k tok
 - Teardown - Deepwoken | 60 High-Craft Game Teardowns/Teardown - Deepwoken.md | teardown, high-craft, rpg, souls-like, permadeath, parry, builds, paid-access, combat | ~2.0k tok
 - Teardown - Driving Empire | 60 High-Craft Game Teardowns/Teardown - Driving Empire.md | teardown, high-craft, racing, vehicles, open-world, brand-partnerships, licensed, roleplay | ~2.0k tok
+- Teardown - Dueling Grounds | 60 High-Craft Game Teardowns/Teardown - Dueling Grounds.md | teardown, high-craft, pvp, melee, duel, parry, posture, timing, frame-data | ~3.0k tok
 - Teardown - Evade | 60 High-Craft Game Teardowns/Teardown - Evade.md | teardown, high-craft, survival, movement, momentum, bunny-hop, co-op, revive, cosmetics | ~2.1k tok
 - Teardown - Funky Friday | 60 High-Craft Game Teardowns/Teardown - Funky Friday.md | teardown, high-craft, rhythm, music, pvp, timing, audio-sync, cosmetics | ~2.0k tok
 - Teardown - Grace | 60 High-Craft Game Teardowns/Teardown - Grace.md | teardown, high-craft, horror, speedrun, movement, pacing, solo-dev | ~2.1k tok

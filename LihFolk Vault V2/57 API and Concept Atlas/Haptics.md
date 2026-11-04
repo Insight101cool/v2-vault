@@ -26,7 +26,7 @@ Haptics are more forgiving in absolute terms (touch is a slower sense and motors
 
 ## Mentioned in
 
-26 notes in 13 sections. The 25 most relevant are linked:
+27 notes in 13 sections. The 25 most relevant are linked:
 
 ### 05 UI and UX
 [[Drag-and-Drop Inventories and Sliders with UIDragDetector]] · [[Gamepad and Console UX]] · [[Input - UserInputService and ContextActionService]]
@@ -59,11 +59,11 @@ Haptics are more forgiving in absolute terms (touch is a slower sense and motors
 [[Sound Design Pitfalls - Reused Ids Onsets and Layered Loops]]
 
 ### 58 Player QoL and Game Tweaks
-[[Controller Support QoL]] · [[Player QoL Start Here]]
+[[Controller Support QoL]]
 
 ### 60 High-Craft Game Teardowns
-[[Teardown - Blade Ball]] · [[Teardown - Dandy's World]] · [[Teardown - Funky Friday]] · [[What Craft Looks Like on Roblox - Lessons from Top Studios]]
+[[Teardown - Blade Ball]] · [[Teardown - Dandy's World]] · [[Teardown - Dueling Grounds]] · [[Teardown - Funky Friday]] · [[What Craft Looks Like on Roblox - Lessons from Top Studios]]
 
-Also mentioned in (not linked): 00 Start Here
+Also mentioned in (not linked): 00 Start Here · Player QoL Start Here
 
 <!-- atlas:generated -->

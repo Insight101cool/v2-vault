@@ -10,7 +10,7 @@ tags: [atlas, concept, type/atlas, area/animation, area/modeling]
 > - Avoid: Leaf bones left on (FBX) -> Add Leaf Bones off.
 > - Avoid: Blockbench ASCII FBX into Blender -> Use glTF/GLB or OBJ.
 >
-> Cost: TL;DR ~130 tok · whole note ~890 tok. Read more: ## In short · ## Key facts
+> Cost: TL;DR ~130 tok · whole note ~910 tok. Read more: ## In short · ## Key facts
 <!-- tldr:end -->
 
 ## In short
@@ -27,7 +27,7 @@ FBX adds its own centimetre scale (Roblox's export page: Apply Scalings "FBX Uni
 
 ## Mentioned in
 
-57 notes in 15 sections. The 25 most relevant are linked:
+58 notes in 16 sections. The 25 most relevant are linked:
 
 ### 06 World Building and Art
 [[Modeling in Blender for Roblox]] · [[Parts Unions and MeshParts]]
@@ -41,18 +41,18 @@ FBX adds its own centimetre scale (Roblox's export page: Apply Scalings "FBX Uni
 ### 15 AI Tools
 [[AI 3D Model Generation Outside Roblox]] · [[AI Animation and Motion from Video]] · [[AI Pitfalls - Assets and Import]]
 
-### 17 Pipelines
-[[Art Pipeline - Concept to In-Game Asset]]
-
 ### 53 Voxel Modelling Deep Dive
 [[MagicaVoxel Goxel and Blockbench Workflows Compared]]
 
 ### 54 Untextured Stylised Modelling
 [[Clean Stylised Shading - Weighted and Custom Normals]] · [[Flat Colour vs Gradient Atlas vs Vertex Colour]]
 
+### 56 Field Notes
+[[Generated Meshes to Runtime MeshParts - Reduce, Upload and Load Without Scale Traps]]
+
 ### Root notes
 [[00 Start Here]]
 
-Also mentioned in (not linked): Animation Editor Advanced · Animation Start Here · Bevels Chamfers and Edge Highlights Without Textures · Blender 5 Python Gotchas for Headless Builds · Blender Automation with Python · Commissions Pricing and Contracts · Creature Rig Conventions · Evaluating AI Tools - A Practical Rubric · Faceted Low-Poly - Flat Normals and Facet Size · Facial Animation and Dynamic Heads · Hard-Surface Modeling · Layered Clothing Creation Workflow · Low-Poly Creature From a Flat Reference Sheet · Low-Poly Tree Set Worked Example · Low-Poly and Stylized Modeling · Making Thumbnails in Studio and Blender - Capture, Lighting and Posing · Meshing Voxels for Roblox - Greedy Meshing and Export · Modeling Fundamentals for Games · Open Questions - Whole Vault · Pipeline - Importing Animated Enemies · Skeleton Library · Skill - Roblox Asset Import · Skinning Weights · Stylized Creatures - Soft Forms, Painted Gradients and Light Rigs · Substance Painter and Texturing Tools · The Gradient Palette Texture Workflow · Trim Sheets Atlases and Vertex Colors · UGC Avatar Items and Accessories · Voxel Modelling Start Here · Voxel Shading - Baked AO Edges and Lighting · Weight Painting and Skinning for Roblox · What AI Models Get Wrong in Roblox
+Also mentioned in (not linked): Animation Editor Advanced · Animation Start Here · Art Pipeline - Concept to In-Game Asset · Bevels Chamfers and Edge Highlights Without Textures · Blender 5 Python Gotchas for Headless Builds · Blender Automation with Python · Commissions Pricing and Contracts · Creature Rig Conventions · Evaluating AI Tools - A Practical Rubric · Faceted Low-Poly - Flat Normals and Facet Size · Facial Animation and Dynamic Heads · Hard-Surface Modeling · Layered Clothing Creation Workflow · Low-Poly Creature From a Flat Reference Sheet · Low-Poly Tree Set Worked Example · Low-Poly and Stylized Modeling · Making Thumbnails in Studio and Blender - Capture, Lighting and Posing · Meshing Voxels for Roblox - Greedy Meshing and Export · Modeling Fundamentals for Games · Open Questions - Whole Vault · Pipeline - Importing Animated Enemies · Skeleton Library · Skill - Roblox Asset Import · Skinning Weights · Stylized Creatures - Soft Forms, Painted Gradients and Light Rigs · Substance Painter and Texturing Tools · The Gradient Palette Texture Workflow · Trim Sheets Atlases and Vertex Colors · UGC Avatar Items and Accessories · Voxel Modelling Start Here · Voxel Shading - Baked AO Edges and Lighting · Weight Painting and Skinning for Roblox · What AI Models Get Wrong in Roblox
 
 <!-- atlas:generated -->

@@ -159,5 +159,5 @@ end -- otherwise keep last frame's camera and let the springs reset
 
 <!-- related:start -->
 ## Related
-[[Animation Data Hygiene - Euler Wrap Joint Holes and Easing]] · [[Held Weapons on Motor6D - Locking the Grip During Attacks]] · [[Hold-to-Attack Input That Never Sticks]] · [[ipairs Stops at the First nil - Cleanup Tables That Leak]] · [[Client Hit Prediction for Melee Feedback]] · [[Resetting One Player's Data Safely]] · [[Streaming Joins - Frozen Players and Loading Screen Teardown]] · [[Moving Data Out of a Play Session]]
+[[Animation Data Hygiene - Euler Wrap Joint Holes and Easing]] · [[Held Weapons on Motor6D - Locking the Grip During Attacks]] · [[Hold-to-Attack Input That Never Sticks]] · [[ipairs Stops at the First nil - Cleanup Tables That Leak]] · [[Comparable Studio Look Shots - Quality Level, Settle Time and Camera Ownership]] · [[Client Hit Prediction for Melee Feedback]] · [[Resetting One Player's Data Safely]] · [[Streaming Joins - Frozen Players and Loading Screen Teardown]]
 <!-- related:end -->
